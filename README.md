@@ -13,5 +13,3 @@ https://vladimirsaenko.github.io/Portfolio-2/sites/site-17/Countdown-NY/index.ht
 }
 
 P.S С Новым Годом!
-
-P.P.S Отсчет закончен
