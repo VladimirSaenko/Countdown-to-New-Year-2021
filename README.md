@@ -1,6 +1,6 @@
 # Countdown-to-New-Year-2021
  
-### Сайт-отсчет до Нового Года (2021)
+## Сайт-отсчет до Нового Года (2021)
 
 ![2232](https://user-images.githubusercontent.com/56477695/118030345-d74eb980-b36d-11eb-89b7-fd866c110cdb.png)
 
