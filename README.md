@@ -1,8 +1,6 @@
 # Countdown to New Year-2021
 
-![2232](https://user-images.githubusercontent.com/56477695/118030345-d74eb980-b36d-11eb-89b7-fd866c110cdb.png)
-
-![2232 — копия](https://user-images.githubusercontent.com/56477695/118030415-ec2b4d00-b36d-11eb-86b2-8954345c96e7.png)
+![image](https://github.com/VladimirSaenko/Countdown-to-New-Year-2021/assets/56477695/0960f570-7502-4b95-a9da-0cc4c8c2df70)
 
 ## Portfolio {
 
